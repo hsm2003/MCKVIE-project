@@ -1,2 +1,2 @@
-# MCKVIE-project
+#project-1
 Python project using turtle module
